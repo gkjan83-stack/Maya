@@ -1,0 +1,6 @@
+{
+  "name": "Maya AI",
+  "description": "Ananya & Maya Hindi emotional AI voice assistant with realistic voice, chat, shayari, caring dialogues, and smart responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
